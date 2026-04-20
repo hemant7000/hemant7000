@@ -22,7 +22,3 @@ Email Me 👉 ✉️ **hemantmpct23@gmail.com** For Collaboration/Project or Any
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
