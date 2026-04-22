@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Hemant Raw
+# Hi 👋, I'm Hemant Raw
 **A passionate Web Deginer || MERNSTACK Developer || FSD-MERN || Devops Engineer**
 
-Email Me 👉 ✉️ **hemantmpct23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **hemantmpct23@gmail.com** For Collaboration/Project or Designs etc. 😊😊
 
 - 🔭 **I’m currently doing an internship on:** Cybrom Technology 
 - 🌱 **I’m currently learning:** FSD - MERN & DEVOPS 
